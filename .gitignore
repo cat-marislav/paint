@@ -1,0 +1,8 @@
+/.idea/.gitignore
+/out/production/paint/ColorChoice.class
+/out/production/paint/Line.class
+/out/production/paint/Main.class
+/out/production/paint/MainFrame.class
+/.idea/misc.xml
+/.idea/modules.xml
+/paint.iml
